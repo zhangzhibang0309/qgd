@@ -1,0 +1,7 @@
+
+
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+$--color-primary: #42a5ff;
+@import "~element-ui/packages/theme-chalk/src/index";
+@import "custom/variables";
+@import "custom/reboot";
